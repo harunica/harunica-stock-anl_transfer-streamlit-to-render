@@ -2,7 +2,7 @@ import streamlit as st
 
 st.markdown("# 新サーバーへの移行のお知らせ")
 
-st.image("/workspaces/harunica-stock-anl_transfer-streamlit-to-render/株データ分析_アイコン.png")
+st.image("株データ分析_アイコン.png")
 
 st.markdown("""
 「株リウム（配当管理アプリ）」をご利用いただきありがとうございます。
